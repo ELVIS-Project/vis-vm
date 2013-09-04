@@ -1,3 +1,6 @@
 [submodule "vis"]
 	path = vis
 	url = git@github.com:ELVIS-Project/vis.git
+[submodule "django_vis"]
+	path = django_vis
+	url = git@github.com:ELVIS-Project/django-vis.git
